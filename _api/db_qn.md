@@ -9,7 +9,7 @@ parameters:
 right_code_blocks:
   - code_block: |-
       // Вернёт массив с записью test
-      $q = DB::N("SELECT * FROM `users` WHERE `username` = 'test'");
+      $q = DB::Q("SELECT * FROM `users` WHERE `username` = 'test'");
       $c = DB::QN($q);
       echo($c) // 1
     title: PHP
