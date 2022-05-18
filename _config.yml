@@ -17,6 +17,9 @@ collections:
   api:
     title: База данных
     position_number: 1
+  admin:
+    title: База данных
+    position_number: 2
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -37,6 +40,11 @@ defaults:
       type: "api"
     values:
       _hide_content: true
+  -
+    scope:
+      type: "admin"
+    values:
+      _hide_content: true      
 
 # -----------
 # CloudCannon
