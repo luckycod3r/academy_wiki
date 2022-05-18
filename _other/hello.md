@@ -1,5 +1,5 @@
 ---
-title: Ссылки
+title: link
 position_number: 1.1
 type: function
 description: Main web - academy.aquaclouds.ru/ Admin-web - academy.aquaclouds.ru/admin
