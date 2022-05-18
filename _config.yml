@@ -17,9 +17,12 @@ collections:
   api:
     title: База данных
     position_number: 1
+  api:
+    title: База данных
+    position_number: 2
   admin:
     title: Admin
-    position_number: 2
+    position_number: 3
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
