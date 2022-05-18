@@ -237,10 +237,10 @@ h3 .endpoint {
 	}
 }
 
-.endpoint.post {
+.endpoint.function {
 	color: #42A5F5;
 	&:after {
-		content: "POST";
+		content: "FUNCTION";
 	}
 }
 
