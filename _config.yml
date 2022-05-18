@@ -14,8 +14,8 @@ baseurl:
 timezone: Etc/UTC
 
 collections:
-  api:
-    title: База данных
+  other:
+    title: Прочая чушь
     position_number: 1
   api:
     title: База данных
