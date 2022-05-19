@@ -1,0 +1,11 @@
+---
+title: ADMIN::level
+position_number: 2.3
+type: function
+description: Возвращает уровень администратора
+right_code_blocks:
+  - code_block: |-
+      echo(ADMIN::level()) // 1;
+    title: PHP
+    language: php
+---
