@@ -1,5 +1,5 @@
 ---
-title: ADMIN::logIn()
+title: ADMIN::logIn
 position_number: 2.2
 type: function
 description: Авторизирует админа
