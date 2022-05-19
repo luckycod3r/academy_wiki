@@ -14,7 +14,7 @@ parameters:
     content: Сообщение 
 right_code_blocks:
   - code_block: |-
-    MAIL::send("academy@ecit.ru","belovtimofei@gmail.com","Новая заявка", "Поступил новый запрос на мастер класс");
+      MAIL::send("academy@ecit.ru","belovtimofei@gmail.com","Новая заявка", "Поступил новый запрос на мастер класс");
     title: PHP
     language: php
 ---
